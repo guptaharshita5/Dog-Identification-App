@@ -1,7 +1,10 @@
 # Dog-Identification-App
 
+# Blog Link
+https://medium.com/@guptaharshita5/write-an-algorithm-for-a-dog-identification-app-ea2f8d689834
+
 # Objective:
-The objective of this project is to build a pipeline to process real-world, user-supplied images. In this project there is an image of a dog, your algorithm will identify an estimate of the canineís breed. If supplied an image of a human, the code will identify the resembling dog breed.
+The objective of this project is to build a pipeline to process real-world, user-supplied images. In this project there is an image of a dog, your algorithm will identify an estimate of the canine‚Äôs breed. If supplied an image of a human, the code will identify the resembling dog breed.
 
 # Project Overview:
 The goal is to classify images of dogs according to their breed. In this project we have developed an algorithm that could be used as part of a mobile or web app. At the end of this project, your code will accept any user-supplied image as input. If a dog is detected in the image, it will provide an estimate of the dog's breed. If a human is detected, it will provide an estimate of the dog breed that is most resembling. 
@@ -17,5 +20,5 @@ The goal is to classify images of dogs according to their breed. In this project
 8) Test Your Algorithm
 
 # Conclusion:
-In this project we have applied the deep learning and neural network to predict that a particular image is a breed of the dog .If it is not then it shows the message likewiseî Hum... seems this neither dog, nor human; must be something elseî. , I have made important design decisions about the user experience for our app. By completing this lab, I understood the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline. Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer.
+In this project we have applied the deep learning and neural network to predict that a particular image is a breed of the dog .If it is not then it shows the message likewise‚Äù Hum... seems this neither dog, nor human; must be something else‚Äù. , I have made important design decisions about the user experience for our app. By completing this lab, I understood the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline. Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer.
 
